@@ -14,4 +14,4 @@ uvicorn main:app --reload
 
 Swagger UI: http://127.0.0.1:8000/docs#/
 
-Postman: [Link]()
+Postman: [Link](https://.postman.co/workspace/My-Workspace~68d5662f-ba7b-4a99-8c48-273ac4d7f578/collection/32665103-41179b52-5f91-4262-af3e-0020860f2c45?action=share&creator=32665103)
